@@ -1,4 +1,3 @@
-import React, { Fragment } from "react";
 import classes from "./Header.module.css";
 import headerImage from "../../assets/header.jpg";
 import HeaderCartButton from "./HeaderCartButton";
